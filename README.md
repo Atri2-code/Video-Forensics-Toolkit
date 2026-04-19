@@ -1,4 +1,4 @@
-# video-forensics-toolkit (Digital Forensics)
+# Video-forensics-toolkit (Digital Forensics)
 
 > Forensic integrity analysis for video files — metadata extraction, tampering detection, and structured case reporting.
 
